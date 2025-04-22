@@ -51,16 +51,8 @@ A real-time chat app where users can:
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amroaltayeb&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amroaltayeb&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amroaltayeb&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
----
 
-### 🌐 Connect with Me:
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 🌍 [Portfolio](https://your-portfolio.com)
+
+
 
