@@ -8,6 +8,7 @@
 ---
 
 ### 🧠 About Me:
+
 - 🔭 I’m currently working as a **Full-Stack Developer**
 - 🌱 I’m currently improving my skills in **Python** and advanced **State Management**
 - ⚡ Fun fact: I love building responsive and performance-driven web apps
@@ -32,27 +33,27 @@
 ### 🚀 Projects:
 
 #### 📞 X Clone
+
 A Twitter-like platform where users can:
+
 - Follow others
 - View and post content
 - React with likes or comments
 - View follower lists  
-✅ Fully responsive across devices  
-**Tech Stack:** React, Tailwind CSS, Redux, Node.js, Express.js, MongoDB, Mongoose, Git
+  ✅ Fully responsive across devices  
+  **Tech Stack:** React, Tailwind CSS, Redux, Node.js, Express.js, MongoDB, Mongoose, Git
 
 ---
 
 #### 💬 Chat Application
+
 A real-time chat app where users can:
+
 - Send and receive messages instantly
 - Enjoy a clean and responsive UI across all devices  
-✅ Fully responsive design  
-**Tech Stack:** React, Tailwind CSS, Node.js, Express.js, Socket.io, MongoDB, Git
+  ✅ Fully responsive design  
+  **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, Socket.io, MongoDB, Git
 
 ---
 
-
-
-
-
-
+![snake gif](https://github.com/amroaltayeb/amroaltayeb/blob/output/github-contribution-grid-snake.gif)

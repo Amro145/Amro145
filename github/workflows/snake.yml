@@ -1,0 +1,27 @@
+name: Snake Animation
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # يومياً في منتصف الليل
+  workflow_dispatch:
+
+jobs:
+  create-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Gif
+        uses: platane/snk@v2
+        with:
+          github_user: amroaltayeb
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+        
+      - name: Commit Snake Gif
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update Snake gif"
+          file_pattern: "github-contribution-grid-snake.gif"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
